@@ -10,6 +10,6 @@ const router = createRouter({
 
 const app = createApp(App);
 
-app.provide('API_URL', 'https://restapi.fr/api');
+app.use(router);
 
 app.mount('#app');
