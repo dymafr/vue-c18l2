@@ -11,7 +11,7 @@
     "@vee-validate/zod": "^4.5.10",
     "vee-validate": "^4.5.10",
     "vue": "^3.2.31",
-    "vue-router": "^4.0.14",
+    "vue-router": "^4.1.6",
     "zod": "^3.13.4"
   },
   "devDependencies": {
